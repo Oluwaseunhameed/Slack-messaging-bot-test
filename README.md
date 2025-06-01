@@ -15,7 +15,7 @@ A Node.js project using Slack API to send, schedule, edit, retrieve, and delete 
 
 ### 1. Clone and install dependencies
 ```bash
-git clone https://github.com/yourname/slack-messaging-bot.git
+git clone https://github.com/Oluwaseunhameed/Slack-messaging-bot-test.git
 cd slack-messaging-bot
 npm install
 ```
